@@ -4,3 +4,6 @@ Connectionist Temporal Classification was resourced pretraining tests languages 
   * Five emotions `disgust`, `anger`, `fear`, `sadnedss` and `happiness` are derived from GREEK Acted Emotional Speech Dynamic Database on [ Emotion Recognition in Greek Speech Using Wav2Vec 2.0](https://colab.research.google.com/github/m3hrdadfi/soxan/blob/main/notebooks/Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb#scrollTo=0Tl6iKAUR4EL) for lexis automative detecting engine
 
   * [ID Location 183_Label disgust.wav](https://github.com/user-attachments/files/33266576/ID.Location.183_Label.disgust.wav)
+  * CustomCTCTrainer with resampler orig_sr, target_sr for 0.36 general accuracy including in 0.96 ~ 1.00 (precision, recall, f-1 score) is predicted in test set
+    [test_d17 (1)_disgust.wav](https://github.com/user-attachments/files/33297558/test_d17.1._disgust.wav)
+    ![r.csv](https://github.com/user-attachments/files/33297605/r.csv)
