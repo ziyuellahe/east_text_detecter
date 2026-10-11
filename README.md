@@ -5,5 +5,11 @@ Connectionist Temporal Classification was resourced pretraining tests languages 
 
   * [ID Location 183_Label disgust.wav](https://github.com/user-attachments/files/33266576/ID.Location.183_Label.disgust.wav)
   * CustomCTCTrainer with resampler orig_sr, target_sr for 0.36 general accuracy including in 0.96 ~ 1.00 (precision, recall, f-1 score) is predicted in test set
-    [test_d17 (1)_disgust.wav](https://github.com/user-attachments/files/33297558/test_d17.1._disgust.wav)
-    ![r.csv](https://github.com/user-attachments/files/33297605/r.csv)
+  * [test_d17 (1)_disgust.wav](https://github.com/user-attachments/files/33297558/test_d17.1._disgust.wav)
+            >Emotion	Score
+            `anger`	99.4%
+            `disgust`	0.0%
+            `fear`	0.1%
+            `happiness`	0.2%
+            `sadness`	0.3%
+            rows × 2 columns
